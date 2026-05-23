@@ -1,0 +1,16 @@
+{
+  "name": "google-keep-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Google Keep - read, create, and manage notes via Claude",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["mcp", "google-keep", "claude", "notes"],
+  "author": "Bronzeace1",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
