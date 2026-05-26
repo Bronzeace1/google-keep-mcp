@@ -2,6 +2,11 @@
 
 An MCP (Model Context Protocol) server that lets Claude read, create, and manage your Google Keep notes.
 
+## Compatibility
+
+This MCP server works with **Claude Code**, **Claude Cowork**, and **Claude Desktop** only.
+It does **not** work with Claude.ai chat — the web chat runs in the cloud and cannot connect to local MCP servers running on your machine.
+
 ## Tools Available
 
 | Tool | Description |
